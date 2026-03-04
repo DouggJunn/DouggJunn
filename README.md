@@ -47,10 +47,10 @@
 
 <ul>
   <li>
-    <a href="https://github.com/JnnDougg/Fruta-Fruto">
+    <a href="https://github.com/DouggJunn/Fruta-Fruto">
       <b>
         <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" />
-        Fruta-Fruto
+         Fruta-Fruto
       </b>
     </a>
     <br/>
@@ -65,7 +65,7 @@
 </h3>
 
 <p>
-  <a href="https://github.com/JnnDougg" target="_blank">
+  <a href="https://github.com/DouggJunn" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/jnndougg/" target="_blank">
